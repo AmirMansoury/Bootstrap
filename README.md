@@ -7,13 +7,13 @@ html5shiv is for IE 9 to down versions.
 
 Sources:
 
-#the RTL CSS is by @aliha [https://github.com/aliha/bootstrap-rtl].
+*the RTL CSS is by @aliha [https://github.com/aliha/bootstrap-rtl].
 
-#jQuary Version: 1.9.1 [http://jquery.com].
+*jQuary Version: 1.9.1 [http://jquery.com].
 
-#html5shiv [https://code.google.com/p/html5shiv].
+*html5shiv [https://code.google.com/p/html5shiv].
 
 +++++++++
 
-#contact me: @AmirMansoury
+*contact me: @AmirMansoury
 
